@@ -3,7 +3,7 @@ title: "Model Variational Consumer Preferences Based on Online Reviews Using Sen
 collection: publications
 category: 'manuscripts'
 permalink: /publication/2022-07-01-consumer-preferences
-excerpt: 'This research proposes innovative approaches for modeling variational consumer preferences using online reviews, integrating sentiment analysis with PSO-optimized DENFIS.'
+excerpt: '企业面临消费者偏好快速变化的挑战：传统市场调研周期长、成本高，无法及时捕捉消费者的真实需求变化。海量的在线评论数据蕴含着宝贵的信息，但缺乏有效的方法来提取和分析这些动态变化的偏好。本研究利用在线评论的实时性，开发基于情感分析和动态学习的预测模型，实时捕捉和分析消费者偏好的变化趋势。'
 date: 2022-07-01
 venue: 'Journal of Intelligent & Fuzzy Systems'
 paperurl: 'https://doi.org/10.3233/JIFS-213057'
@@ -37,4 +37,5 @@ authors: 'Jiang, H.*, <strong>Guo, G.</strong>, Sabetzadeh, F., & Chan, K. Y.'
 - 及时发现产品或服务的问题
 - 预测市场趋势变化
 - 指导产品改进和营销策略调整
+
 - 相比传统调研方法，反应速度提升90%以上
