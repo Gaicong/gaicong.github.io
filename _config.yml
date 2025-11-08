@@ -23,7 +23,7 @@ repository               : "Gaicong/gaicong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "郭盖聪"
   bio              : "诺丁汉大学博士生 | OR & AI探索者"
   location         : "中国 / 英国"
