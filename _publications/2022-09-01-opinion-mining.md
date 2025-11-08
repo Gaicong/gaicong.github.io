@@ -3,7 +3,7 @@ title: "Opinion Mining and DENFIS Approaches for Modelling Variational Consumer 
 collection: publications
 category: 'conferences'
 permalink: /publication/2022-09-01-opinion-mining
-excerpt: 'This research presents advanced opinion mining techniques combined with DENFIS approaches for modeling dynamic consumer preferences from online comments.'
+excerpt: '传统消费者行为分析方法存在时效性差和静态性问题：问卷调查周期长，无法捕捉快速变化的市场动态；统计模型通常假设消费者偏好稳定，无法适应现实的复杂性。本研究利用在线评论的实时数据源，结合动态学习的AI技术，开发能够实时适应市场变化的消费者偏好建模方法。'
 date: 2022-09-01
 venue: '2nd International Conference on Advanced Intelligent Technologies (ICAIT 2021)'
 paperurl: 'https://doi.org/10.1007/978-981-16-9735-7_21'
@@ -38,4 +38,5 @@ authors: 'Jiang, H.*, <strong>Guo, G.</strong>, & Sabetzadeh, F.'
 - 能够及时捕捉消费者偏好的变化趋势
 - 为企业产品改进提供及时反馈
 - 支持动态定价和精准营销策略
+
 - 在国际会议上获得同行认可，证明了方法的学术价值
