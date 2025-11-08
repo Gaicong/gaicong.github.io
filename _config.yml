@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "郭盖聪的主页"
+title                    : "Gaicong"
 title_separator          : "-"
 name                     : &name "郭盖聪"
 description              : &description "运筹优化与人工智能探索者"   # Update this with a general description of your site, this is the default if not overridden by a page
