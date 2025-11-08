@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## 教育背景
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+| 学校 | 学位 | 时间 |
+|------|------|------|
+| 诺丁汉大学 | 战略学博士 | 2022.09 – 2026.07 |
+| 澳门科技大学 | 商业分析硕士 | 2020.09 – 2022.06 |
+| 广东财经大学华商学院 | 电子商务学士 | 2015.09 – 2019.06 |
 
-Work experience
+## 项目经历
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -32,7 +34,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+## 技能
 ======
 * Skill 1
 * Skill 2
@@ -41,24 +43,20 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+## 著作
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+## 演讲
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+## 教学
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
