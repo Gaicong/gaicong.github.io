@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "郭盖聪的主页"
+title: "Homepage"
 author_profile: true
 redirect_from:
   - /about/
