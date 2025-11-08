@@ -20,7 +20,7 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "笔记"
+  - title: "博客"
     url: /year-archive/
     
   - title: "简历"
