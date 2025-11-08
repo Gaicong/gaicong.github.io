@@ -1,7 +1,7 @@
 ---
 title: "Integrated Routing for a Vehicle-Robot Pickup and Delivery System with Time Constraints"
 collection: publications
-category: 'manuscripts'
+category: 'conferences'
 permalink: /publication/2022-08-01-vehicle-robot-routing
 excerpt: '电商时代的最后一公里配送面临效率瓶颈：传统配送车辆受限于交通和停车问题，而新兴的配送机器人覆盖范围有限。如何将两者优势结合，实现高效协同配送是一个复杂的技术挑战。本研究开发车辆-机器人协同配送模式，车辆负责长距离运输，机器人负责末端配送，通过精确的路径规划和时间协调，最大化整体配送效率。'
 date: 2022-08-01
@@ -39,3 +39,4 @@ authors: 'Li, Y., Chen, Y., <strong>Guo, G.</strong>, Wu, H., & Yuan, Z.'
 - 客户满意度显著提高
 
 - 为智慧城市物流配送提供了可行的技术路径
+
