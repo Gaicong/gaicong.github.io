@@ -43,5 +43,4 @@ redirect_from:
 ## 💬 让我们继续对话
 
 学术研究从来不是孤独的旅程。如果你对我的工作有任何想法、疑问，或者想要探讨合作的可能性，欢迎随时联系我。
-
-📧 邮箱：Gaicong.Guo@nottingham.edu.cn
+- 邮箱：Gaicong.Guo@nottingham.edu.cn
