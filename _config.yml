@@ -140,7 +140,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           : "郭盖聪的主页"
+og_description           : "Gaicong"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
