@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Gaicong"
+title                    : "GAICONG"
 title_separator          : "-"
 name                     : &name "郭盖聪"
 description              : &description "运筹优化与人工智能探索者"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -140,7 +140,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           : "Gaicong"
+og_description           : "GAICONG"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
