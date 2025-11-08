@@ -7,8 +7,8 @@ excerpt: '现代多式联运网络面临不确定性冲击：自然灾害、疫�
 date: 2025-10-01
 venue: 'Industrial Management & Data Systems'
 paperurl: 'https://doi.org/10.1108/IMDS-01-2025-0096'
-引用：'Zhang, X., <strong>Guo, G.*</strong>, Irawan, C. A., Chan, H. K., Zeng, F., & Gu, X. (2025). Tactical and operational planning of resilient multimodal dry port transportation network. <i>Industrial Management & Data Systems</i>, 1-31.'
-作者：'Zhang, X., <strong>Guo, G.*</strong>, Irawan, C. A., Chan, H. K., Zeng, F., & Gu, X.'
+引用: 'Zhang, X., <strong>Guo, G.*</strong>, Irawan, C. A., Chan, H. K., Zeng, F., & Gu, X. (2025). Tactical and operational planning of resilient multimodal dry port transportation network. <i>Industrial Management & Data Systems</i>, 1-31.'
+作者: 'Zhang, X., <strong>Guo, G.*</strong>, Irawan, C. A., Chan, H. K., Zeng, F., & Gu, X.'
 ---
 
 ## 研究背景
@@ -32,3 +32,4 @@ paperurl: 'https://doi.org/10.1108/IMDS-01-2025-0096'
 
 ## 实际应用
 该模型为物流企业提供了在不确定性环境下制定决策的科学工具，帮助企业在面对突发事件时能够快速调整运营策略，最大程度减少损失。
+
