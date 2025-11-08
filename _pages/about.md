@@ -28,4 +28,3 @@ redirect_from:
 
 ## 联系方式
 - **邮箱**: Gaicong.Guo@nottingham.edu.cn
-- **GitHub**: [github.com/marsguo2049](https://github.com/marsguo2049)
