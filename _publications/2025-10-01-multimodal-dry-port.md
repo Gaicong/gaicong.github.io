@@ -2,13 +2,13 @@
 title: "Tactical and Operational Planning of Resilient Multimodal Dry Port Transportation Network"
 collection: publications
 category: 'manuscripts'
-permalink: /publication/2025-01-01-multimodal-dry-port
-excerpt: 'This study focuses on tactical and operational planning for resilient multimodal dry port transportation networks, addressing critical challenges in modern logistics systems.'
-date: 2025-01-01
+permalink: /publication/2025-10-01-multimodal-dry-port
+excerpt: '现代多式联运网络面临不确定性冲击：自然灾害、疫情、贸易政策变化等突发事件会严重影响物流网络的正常运行。传统的确定性优化方法无法应对这些风险，导致网络韧性不足。本研究开发随机规划模型，将不确定性纳入数学规划框架，确保在最坏情况下仍能保持网络的正常运行。'
+date: 2025-10-01
 venue: 'Industrial Management & Data Systems'
 paperurl: 'https://doi.org/10.1108/IMDS-01-2025-0096'
-citation: 'Zhang, X., <strong>Guo, G.*</strong>, Irawan, C. A., Chan, H. K., Zeng, F., & Gu, X. (2025). Tactical and operational planning of resilient multimodal dry port transportation network. <i>Industrial Management & Data Systems</i>, 1-31.'
-authors: 'Zhang, X., <strong>Guo, G.*</strong>, Irawan, C. A., Chan, H. K., Zeng, F., & Gu, X.'
+引用：'Zhang, X., <strong>Guo, G.*</strong>, Irawan, C. A., Chan, H. K., Zeng, F., & Gu, X. (2025). Tactical and operational planning of resilient multimodal dry port transportation network. <i>Industrial Management & Data Systems</i>, 1-31.'
+作者：'Zhang, X., <strong>Guo, G.*</strong>, Irawan, C. A., Chan, H. K., Zeng, F., & Gu, X.'
 ---
 
 ## 研究背景
@@ -17,7 +17,7 @@ authors: 'Zhang, X., <strong>Guo, G.*</strong>, Irawan, C. A., Chan, H. K., Zeng
 现代多式联运网络面临**不确定性冲击**：自然灾害、疫情、贸易政策变化等突发事件会严重影响物流网络的正常运行。传统的确定性优化方法无法应对这些风险，导致网络韧性不足。
 
 ### 解决思路
-开发**随即规划模型**，将不确定性纳入数学规划框架，确保在最坏情况下仍能保持网络的正常运行。
+开发**随机规划模型**，将不确定性纳入数学规划框架，确保在最坏情况下仍能保持网络的正常运行。
 
 ## 技术方案
 
@@ -31,5 +31,4 @@ authors: 'Zhang, X., <strong>Guo, G.*</strong>, Irawan, C. A., Chan, H. K., Zeng
 - **情景分析**：评估不同风险场景下的网络表现
 
 ## 实际应用
-
 该模型为物流企业提供了在不确定性环境下制定决策的科学工具，帮助企业在面对突发事件时能够快速调整运营策略，最大程度减少损失。
