@@ -23,8 +23,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  - title: "导师"
-    url: /supervisors/
+  # - title: "导师"
+  #  url: /supervisors/
         
   - title: "博客"
     url: /year-archive/
