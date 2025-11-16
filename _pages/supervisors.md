@@ -5,8 +5,6 @@ permalink: /supervisors/
 
 {% include base_path %}
 
-# 导师
-
 这里展示了在我学术成长过程中给予重要指导和支持的导师们，他们在各自的研究领域都做出了卓越贡献。
 
 ## 导师信息
