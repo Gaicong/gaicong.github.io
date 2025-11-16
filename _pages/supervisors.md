@@ -41,7 +41,7 @@ permalink: /supervisors/
         <img src="/images/advisors/hing_kai_chan.jpg" alt="Hing Kai Chan" width="100" height="100" style="border-radius: 50%; object-fit: cover;">
       </td>
       <td valign="top">
-        <h3>陈振龙 (Hing Kai Chan)</h3>
+        <h3>陈庆佳 (Hing Kai Chan)</h3>
         <p><strong>职位：</strong>教授、院长 | <strong>单位：</strong>温州肯恩大学商务与公共管理学院</p>
         <p><strong>重要Title：</strong>全球Top 2%科学家、中国高被引学者、宝钢优秀教师奖获得者、英国高等教育学会资深会士(SFHEA)</p>
         <p><strong>研究领域：</strong>生产与运营管理、物流与供应链管理、调度、流程优化、智能制造</p>
